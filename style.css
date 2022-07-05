@@ -6,8 +6,14 @@ body {
 
 section h1 {
 
-    font-size: 60px;
+    font-size: 40px;
 }
+
+section {
+
+    margin-bottom: 100px;
+}
+
 
 .first-section {
 
@@ -17,18 +23,22 @@ section h1 {
     height: 480px;
     padding: 130px 50px;
 
-
 }
 
-.single-div {
+.header-div {
     width: 60%;
     margin: 50px auto;
     color: white;
     text-align: center;
 }
 
+#head-text {
 
-.btn {
+    font-size: 60px;
+}
+
+
+.button {
 
     text-decoration: none;
     padding: 15px 30px;
@@ -36,4 +46,56 @@ section h1 {
     background-color: #F65340;
     border-radius: 5px;
 
+}
+
+.donate-today-div {
+
+    width: 40%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.donate-today-div2 {
+
+    width: 70%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.donate-today-div2 li {
+
+    display: inline-block;
+    margin: 40px 20px;
+}
+
+.li-muted-text {
+
+    color: #717171;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+#border-text {
+
+    color: #F65340;
+    font-size: 30px;
+    font-weight: bolder;
+    background-color: #eddddbfd;
+    border: 3px solid #F65340;
+    padding: 30px;
+    border-radius: 5px;
+}
+
+.donate-today-div3 {
+
+    width: 50%;
+    text-align: center;
+    margin: 40px auto;
+    color: #717171;
+}
+
+.donate-today-div3 hr {
+
+    color: #717171;
+    margin-bottom: 40px;
 }
