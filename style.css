@@ -272,6 +272,7 @@ section {
     border: 2px solid rgb(214, 213, 213);
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
+    outline: none;
 
 }
 
