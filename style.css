@@ -129,7 +129,7 @@ section {
     border-top: none;
     border-left: none;
     border-right: none;
-    border-bottom: 1px solid #717171;
+    border-bottom: 1px solid #bab9b9;
     padding: 10px 0px;
     margin-bottom: 40px;
     outline: none;
@@ -139,7 +139,7 @@ section {
 #text-box::placeholder {
 
     text-align: center;
-    color: #717171;
+    color: #b4b4b4;
     font-size: 15px;
 
 }
